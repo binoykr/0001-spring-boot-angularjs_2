@@ -10,7 +10,7 @@ Here explains how to run application
 <li>Execute the command "mvn clean install -DskipTests"</li>
 <li>Go to the "0001-spring-boot-angularjs_2\binoy-kr-app\binoy-kr-ui\src\main\webapp" folder</li>
 <li>Execute the command "npm install"</li>
-<li>Execute the command "npm start"</li>
+<li>Execute the "npm run build" command, it complies the .ts files to convert to java script files</li>
 <li>Go to the "0001-spring-boot-angularjs_2\binoy-kr-app\binoy-kr-ui" folder</li>
 <li>Execute the command "mvn spring-boot:run"</li>
 </ul>
